@@ -2440,8 +2440,8 @@
         <devicelayout auto-generated='true' name='Phone'>
           <size maxheight='3400' minheight='3400' sizing-mode='vscroll' />
           <zones>
-            <zone h='100000' id='81' type-v2='layout-basic' w='100000' x='0' y='0'>
-              <zone h='84000' id='80' param='vert' type-v2='layout-flow' w='84000' x='8000' y='8000'>
+            <zone h='100000' id='83' type-v2='layout-basic' w='100000' x='0' y='0'>
+              <zone h='84000' id='82' param='vert' type-v2='layout-flow' w='84000' x='8000' y='8000'>
                 <zone fixed-size='280' h='98222' id='3' is-fixed='true' is-scaled='1' param='C:/Users/Akshata Agine/Desktop/Projects/Tableau - Pizza Sales/Pizza Tableau 2.jpg' type-v2='bitmap' w='2000' x='500' y='889'>
                   <zone-style>
                     <format attr='border-color' value='#000000' />
@@ -2934,8 +2934,8 @@
         <devicelayout auto-generated='true' name='Phone'>
           <size maxheight='3250' minheight='3250' sizing-mode='vscroll' />
           <zones>
-            <zone h='100000' id='71' type-v2='layout-basic' w='100000' x='0' y='0'>
-              <zone h='98222' id='70' param='vert' type-v2='layout-flow' w='99000' x='500' y='889'>
+            <zone h='100000' id='73' type-v2='layout-basic' w='100000' x='0' y='0'>
+              <zone h='98222' id='72' param='vert' type-v2='layout-flow' w='99000' x='500' y='889'>
                 <zone fixed-size='280' h='98222' id='3' is-fixed='true' is-scaled='1' param='C:/Users/Akshata Agine/Documents/Downloads/Pizza Tableau 1.jpg' type-v2='bitmap' w='2000' x='500' y='889'>
                   <zone-style>
                     <format attr='border-color' value='#000000' />
